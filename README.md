@@ -1,7 +1,7 @@
 # Retail-Customer-Sales-Dashboard
 Excel Retail Customer Sales Dashboard with Sales Analysis, Charts & Pivot Tables
 ## 📊 About This Project
-Ye dashboard retail sales data ko analyze karne ke liye banaya gaya hai. Isme real-time performance tracking ke liye Excel aur Pivot Tables use kiye gaye hain.
+This dashboard was created to analyze retail sales data. Excel and Pivot Tables are used for real-time performance tracking and data visualization.
 
 ## ✨ Key Features
 - **KPIs**: Total Sales, Total Orders, Total Customers
@@ -10,7 +10,7 @@ Ye dashboard retail sales data ko analyze karne ke liye banaya gaya hai. Isme re
 - **Tools**: Microsoft Excel, Pivot Tables
 
 ## 📈 Screenshots
-Dashboard ke screenshots repo me available hain.
+Dashboard screenshots are available in this repository.
 
 ## 💼 Skills Used
 Excel, Data Visualization, Pivot Tables, Data Analysis, Business Intelligence
